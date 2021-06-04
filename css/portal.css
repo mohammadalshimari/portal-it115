@@ -1,10 +1,10 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.google.com/specimen/Roboto');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: #FFE4C4;
+    font-family: 'Roboto';
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -19,6 +19,7 @@ h1 {
     margin: auto;
     background: #fff;
     line-height: 2.5em;
+    color: #BDB76B;
 }
 
 main.wrapper {
